@@ -1,0 +1,6 @@
+E:\Прога\Calculat0r\Calculat0r\obj\Debug\Calculat0r.csproj.AssemblyReference.cache
+E:\Прога\Calculat0r\Calculat0r\obj\Debug\Calculat0r.csproj.SuggestedBindingRedirects.cache
+E:\Прога\Calculat0r\Calculat0r\obj\Debug\Calculat0r.Form1.resources
+E:\Прога\Calculat0r\Calculat0r\obj\Debug\Calculat0r.Properties.Resources.resources
+E:\Прога\Calculat0r\Calculat0r\obj\Debug\Calculat0r.csproj.GenerateResource.cache
+E:\Прога\Calculat0r\Calculat0r\obj\Debug\Calculat0r.csproj.CoreCompileInputs.cache
